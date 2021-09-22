@@ -1,9 +1,8 @@
 package programmers.hash;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
-public class hash1 {
+public class Q1 {
     public static void main(String[] args) {
         class Solution {
             public String solution(String[] participant, String[] completion) {
