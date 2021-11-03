@@ -1,4 +1,4 @@
-package programmers.StackAndQueue;
+package programmers.stackandqueue;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

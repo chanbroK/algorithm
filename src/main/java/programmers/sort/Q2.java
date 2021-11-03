@@ -1,4 +1,4 @@
-package programmers.Sort;
+package programmers.sort;
 
 import java.util.ArrayList;
 
