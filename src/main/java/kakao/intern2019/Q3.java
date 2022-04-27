@@ -2,6 +2,8 @@ package kakao.intern2019;
 
 import java.util.*;
 
+
+// 불량 사용자
 public class Q3 {
     public static void main(String[] args) {
 //        String[] user_id = {"frodo", "fradi", "crodo", "abc123", "frodoc"};

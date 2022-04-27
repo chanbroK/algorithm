@@ -4,6 +4,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+// 튜플
+
 public class Q2 {
     public static void main(String[] args) {
         String s = "{{2},{2,1},{2,1,3},{2,1,3,4}}";
