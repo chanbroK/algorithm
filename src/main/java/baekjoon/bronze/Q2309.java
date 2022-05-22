@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 //
 public class Q2309 {
+    // 일곱난쟁이
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<Integer> input = new ArrayList<>();
