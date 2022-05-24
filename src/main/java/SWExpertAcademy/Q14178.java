@@ -3,6 +3,7 @@ package SWExpertAcademy;
 import java.util.Scanner;
 
 public class Q14178 {
+    // 1차원 정원
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int T;

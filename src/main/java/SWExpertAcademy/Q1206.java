@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 public class Q1206 {
+    // View
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T;
