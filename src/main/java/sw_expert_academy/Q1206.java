@@ -1,4 +1,4 @@
-package SWExpertAcademy;
+package sw_expert_academy;
 
 import java.util.LinkedList;
 import java.util.Scanner;

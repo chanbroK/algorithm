@@ -1,6 +1,5 @@
-package SWExpertAcademy;
+package sw_expert_academy;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Q2805 {
